@@ -1,3 +1,7 @@
+Created following Clever programmer tutorial 
+Live demo:
+https://whatsapp-mern-54b7a.web.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
