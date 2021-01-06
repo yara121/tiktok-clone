@@ -1,7 +1,7 @@
 Created following Clever programmer tutorial 
 
 Live demo:
-https://whatsapp-mern-54b7a.web.app/
+https://tiktok-clone-6b404.web.app/
 
 # Getting Started with Create React App
 
